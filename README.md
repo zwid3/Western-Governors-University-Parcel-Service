@@ -1,7 +1,7 @@
 # Western-Governors-University-Parcel-Service
 
 
-`I developed an optimized delivery route program for the **Western Governors University Parcel Service (WGUPS)** to improve the efficiency of their daily local deliveries (DLD). The system ensures that all 40 packages assigned to the **Salt Lake City DLD route** are delivered on time while adhering to specific package requirements and keeping the total combined distance traveled by three trucks under 140 miles.`
+I developed an optimized delivery route program for the **Western Governors University Parcel Service (WGUPS)** to improve the efficiency of their daily local deliveries (DLD). The system ensures that all 40 packages assigned to the **Salt Lake City DLD route** are delivered on time while adhering to specific package requirements and keeping the total combined distance traveled by three trucks under 140 miles.
 
 ### **Key Features of My Program:**  
 - **Route Optimization Algorithm:** Designed and implemented an algorithm to determine the most efficient delivery sequence for all packages.  
